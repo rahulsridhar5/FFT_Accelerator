@@ -8,4 +8,4 @@ Three Different methods were used to generate the Accelerator:
 * HCL
 
 ## Result
-THe HCL implementation was the most efficient and the fastest followed by the HCL implementation and finally the Software Implelmentation
+The HCL implementation was the most efficient and the fastest followed by the HCL implementation and finally the Software Implelmentation
